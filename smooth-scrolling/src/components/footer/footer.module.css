@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem 0;
+}
+
+.hand {
+  width: 24px;
+  height: 24px;
+}
+
+.text {
+  font-weight: 600;
+}

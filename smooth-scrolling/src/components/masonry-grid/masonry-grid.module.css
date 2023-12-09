@@ -1,0 +1,15 @@
+.wrapper {
+  display: grid;
+  place-content: center;
+  margin: 4rem 0;
+}
+
+.galery {
+  width: max-content;
+  columns: 3 320px;
+  column-gap: 1rem;
+}
+
+.galery img {
+  margin-bottom: 1rem;
+}

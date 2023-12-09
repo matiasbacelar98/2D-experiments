@@ -1,9 +1,14 @@
-import React from 'react';
+import Layout from './components/layout';
+import Header from './components/header';
+import MasonryGrid from './components/masonry-grid';
+import Footer from './components/footer';
 
 export default function App() {
   return (
-    <React.Fragment>
-      <h1>Vite + React</h1>
-    </React.Fragment>
+    <Layout>
+      <Header />
+      <MasonryGrid />
+      <Footer />
+    </Layout>
   );
 }
