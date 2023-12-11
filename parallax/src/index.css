@@ -96,3 +96,8 @@ select {
     scroll-behavior: auto !important;
   }
 }
+
+.app {
+  margin: 0 auto;
+  padding: 4rem;
+}

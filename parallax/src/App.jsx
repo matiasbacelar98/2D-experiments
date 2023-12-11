@@ -1,3 +1,9 @@
+import ImagesList from './images-list';
+
 export default function App() {
-  return <div>App</div>;
+  return (
+    <main className='app'>
+      <ImagesList />
+    </main>
+  );
 }

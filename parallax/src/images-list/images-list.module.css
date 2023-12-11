@@ -1,0 +1,10 @@
+.wrapper {
+  margin: 0 auto;
+  display: grid;
+  width: 80%;
+  row-gap: 20rem;
+}
+
+.wrapper:nth-child(2n) {
+  justify-self: end;
+}
