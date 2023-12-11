@@ -13,8 +13,8 @@ export default function ImagesList() {
 
 const images = [
   'https://images.pexels.com/photos/18111091/pexels-photo-18111091/free-photo-of-ciudad-francia-punto-de-referencia-veleros.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
-  'https://images.pexels.com/photos/18221948/pexels-photo-18221948/free-photo-of-caspio.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
+  'https://images.pexels.com/photos/5646986/pexels-photo-5646986.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
   'https://images.pexels.com/photos/18307242/pexels-photo-18307242/free-photo-of-madera-carretera-paisaje-naturaleza.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
-  'https://images.pexels.com/photos/19257502/pexels-photo-19257502/free-photo-of-montanas-divertido-ninos-valle.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
-  'https://images.pexels.com/photos/17126918/pexels-photo-17126918/free-photo-of-mujer-ordenador-portatil-sentado-mesa.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
+  'https://images.pexels.com/photos/13135837/pexels-photo-13135837.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
+  'https://images.pexels.com/photos/18272969/pexels-photo-18272969/free-photo-of-resfriado-nieve-paisaje-naturaleza.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load',
 ];
