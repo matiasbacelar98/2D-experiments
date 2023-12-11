@@ -5,6 +5,6 @@
   row-gap: 20rem;
 }
 
-.wrapper:nth-child(2n) {
+.wrapper div:nth-child(2n) {
   justify-self: end;
 }
