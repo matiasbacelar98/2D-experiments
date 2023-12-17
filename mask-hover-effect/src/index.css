@@ -100,3 +100,26 @@ select {
   color: #ffffff;
   background-color: #3431f3;
 }
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding: 1rem;
+}
+
+.img {
+  width: 344px;
+  height: 516px;
+  object-fit: contain;
+}
+
+.mask {
+  position: absolute;
+  mask-image: url('./assets/mask.svg');
+  mask-repeat: no-repeat;
+  mask-size: 40px;
+  background-color: #ffffff;
+}
